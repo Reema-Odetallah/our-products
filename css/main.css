@@ -1,0 +1,58 @@
+*{
+    margin:0;
+}
+img{
+    width:200px;
+   
+    border: 1px solid;
+}
+.img{
+    text-align: center;
+}
+.ourProducts{
+    margin:20px auto;
+    width:70%;
+    border: 1px solid rgb(156, 156, 156);
+}
+.product{
+    float: left;
+    width :220px;
+    height: 300px;
+    padding:10px;
+    border:1px solid rgb(156, 156, 156);
+    margin: 10px ;
+}
+
+h1,p,span{
+    text-align: left;
+}
+
+.newPrice{
+    margin-left:5px;
+    margin-right:5px ; 
+    color:rgb(26, 208, 26) 
+}
+.oldPrice{
+    color: red;
+    text-decoration: line-through;
+}
+.clear{
+    clear: both;
+}
+
+.fa-regular{
+  padding: 2px;
+  border:solid 2px blue;
+  color: blue;
+}
+
+button{
+    background-color: blue;
+    color:white;
+    padding: 2px;  
+}
+
+.submit{
+    margin-top: 10px
+   
+}
